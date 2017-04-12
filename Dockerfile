@@ -1,5 +1,5 @@
-# alpine:latest
 FROM alpine:3.5
+# alpine:latest
 
 MAINTAINER Leon.Xu ( http://github.com/kairyou/ )
 
