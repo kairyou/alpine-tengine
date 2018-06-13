@@ -3,7 +3,7 @@ FROM alpine:3.5
 
 MAINTAINER Leon.Xu ( http://github.com/kairyou/ )
 
-ENV TENGINE_VERSION 2.2.0
+ENV TENGINE_VERSION 2.2.2
 
 # nginx: https://git.io/vSIyj
 
